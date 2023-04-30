@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "type": "cliente",
+      "name": "Juan",
+      "last_name": "Gomez",
+      "email": "juangomez@gmail.com",
+      "phone": 956789018,
+      "username": "jgomez1234",
+      "password": "juan@%4321"
+    },
+    {
+      "id": 2,
+      "type": "vendedor",
+      "name": "Joaquín",
+      "last_name": "Pérez",
+      "email": "j.perez23456789@gmail.com",
+      "phone": 956789012,
+      "username": "jperez2",
+      "password": "j.perez23*"
+    },
+    {
+      "id": 3,
+      "type": "cliente",
+      "name": "María",
+      "last_name": "López",
+      "email": "m.lopez123456789@gmail.com",
+      "phone": 9834567890,
+      "username": "mlopez123456",
+      "password": "m.lop567$*"
+    },
+    {
+      "id": 4,
+      "type": "vendedor",
+      "name": "Carlos",
+      "last_name": "Sánchez",
+      "email": "c.sanchez23456789@yahoo.com",
+      "phone": 978901234,
+      "username": "csanchez26",
+      "password": "c.sanchez2%&*"
+    },
+    {
+      "id": 5,
+      "type": "cliente",
+      "name": "Sandra",
+      "last_name": "García",
+      "email": "s.garcia45@yahoo.com",
+      "phone": 908765432,
+      "username": "sgarcia45",
+      "password": "s.garcia456&"
+    },
+    {
+      "id": 6,
+      "type": "vendedor",
+      "name": "Ana",
+      "last_name": "Martinez",
+      "email": "amartinez@hotmail.com",
+      "phone": 98765432,
+      "username": "amartinez98",
+      "password": "amartine&%z987"
+    },
+    {
+      "id": 7,
+      "type": "cliente",
+      "name": "Pedro",
+      "last_name": "Lopez",
+      "email": "plopez@gmail.com",
+      "phone": 951478722,
+      "username": "plopez9547",
+      "password": "plopez954&"
+    },
+    {
+      "id": 8,
+      "type": "vendedor",
+      "name": "Rosa",
+      "last_name": "Garcia",
+      "email": "rgarcia@hotmail.com",
+      "phone": 987654321,
+      "username": "rgaciar987",
+      "password": "rgaciar987"
+    },
+    {
+      "id": 9,
+      "type": "cliente",
+      "name": "Jose",
+      "last_name": "Sanchez",
+      "email": "jsanchez@gmail.com",
+      "phone": 956789016,
+      "username": "jsanchezn901",
+      "password": "jsanchezn903"
+    },
+    {
+      "id": 10,
+      "type": "vendedor",
+      "name": "Fernando",
+      "last_name": "Fernández",
+      "email": "ffernandez@hotmail.com",
+      "phone": 901234567,
+      "username": "ffernandez12",
+      "password": "ffernandez123"
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Juegos de mesa"
+    },
+    {
+      "id": 2,
+      "name": "Puzzles"
+    },
+    {
+      "id": 3,
+      "name": "Muñecas"
+    },
+    {
+      "id": 4,
+      "name": "Peluches"
+    },
+    {
+      "id": 5,
+      "name": "Libros infantiles"
+    },
+    {
+      "id": 6,
+      "name": "Aprendizaje"
+    },
+    {
+      "id": 7,
+      "name": "Figuras de acción"
+    },
+    {
+      "id": 8,
+      "name": "Construcción"
+    },
+    {
+      "id": 9,
+      "name": "Coches"
+    },
+    {
+      "id": 10,
+      "name": "Arte"
+    },
+    {
+      "id": 11,
+      "name": "Música"
+    },
+    {
+      "id": 12,
+      "name": "Robots"
+    },
+    {
+      "id": 13,
+      "name": "Juegos de Rol"
+    },
+    {
+      "id": 14,
+      "name": "Aire Libre"
+    }
+  ]
+
+}
